@@ -12,5 +12,5 @@ print('Linha 6')
 # Final
 '''
 print('Britney Spears é a maioral do pop')
-print('nesse momento estou na Corsan fazedo aulas')  #Estou aqui pq o merda do Diego trabalha mal
+print('nesse momento estou em casa fazedo aulas')  #12345
 print('Python eh legal *_*')
